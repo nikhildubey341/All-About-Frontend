@@ -1,5 +1,22 @@
+// Word vs Keyword ✅
+// Var let and Const✅
+// Hoisting ✅
+// Tpes in JS✅
+// Primitive and Reference ✅
+// Conditionals - If-else, Else-if ✅
+// Loops - For, While ✅
+// Function - ✅
+// Array - ✅
+// Push, PoP, Shift, Unshift, Splice ✅
+// Object ✅
+// Update Object Properties ✅
+
+
+
+
+
 // const dulha = "lab";
-// const dulhan = "labby";
+// const dulhan = "labby"; 
 
 
 // Word vs keyword ✅
